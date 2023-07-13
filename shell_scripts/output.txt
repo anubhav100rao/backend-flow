@@ -1,0 +1,6 @@
+Anubhav kumar rao
+.
+..
+.git
+readme.md
+shell_scripts
